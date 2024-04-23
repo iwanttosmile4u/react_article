@@ -1,0 +1,15 @@
+.Article {
+  background-color: grey;
+  margin: 20px 20px 0;
+  padding: 20px 50px;
+  border: 2px solid black;
+  border-radius: 10px;
+
+  &__title {
+    color: #ffffff;
+  }
+
+  &__date {
+    color: rgb(207, 207, 171);
+  }
+}
